@@ -1,0 +1,62 @@
+
+.blog-main-page-heading{
+
+    font-family:"Roboto";
+    font-size: 30px;
+    color:white;
+
+}
+
+.blog-main-bg-container{
+  
+    background-image:url("https://res.cloudinary.com/dgurkbuce/image/upload/v1691500858/technology-communication-icons-symbols-concept_x3mqnv.jpg") ;
+    height: 92vh;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+  }
+
+  .card-img-top{
+    width:94%;
+  }
+  
+
+.blog-main-page-description{
+
+    font-family: "Segoe UI Symbol";
+    font-size: 20px;
+    color:white;
+}
+
+.main-cards-div{
+    max-width: 100vw;
+    min-height: vh;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.blog-main-page-div{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+    width: 300px;
+    max-width: 600px;
+    padding: 20px;
+    border-radius: 30px;
+
+
+}
+.button-main-getStarted-div{
+    align-items: center;
+}
+
+.btn:hover{
+
+    box-shadow: 0 4px 16px 0px #bfbfbfbf;
+    border:1px solid #0acff6;
+    width: 120px;
+}

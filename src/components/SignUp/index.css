@@ -1,0 +1,22 @@
+.signup-main-container{
+
+    height: 93vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    background: linear-gradient(135deg, #153677, #4e085f);
+}
+
+.form-card{
+
+    padding: 20px;
+    border-radius: 16px;
+    border:1px solid #bfbfbf;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}

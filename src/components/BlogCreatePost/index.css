@@ -1,0 +1,21 @@
+.blog-create-container{
+
+    display: flex;
+    flex-wrap: wrap;
+    padding: 20px;
+}
+
+.top-create-section{
+    display: flex;
+    justify-content: space-around;
+    width: 100vw;
+}
+
+.bi-plus-circle{
+
+    margin-right: 16px;
+}
+
+.btn-info{
+    width:140px !important;
+}
